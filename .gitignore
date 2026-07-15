@@ -9,6 +9,7 @@ build/
 .vite/
 .vitest/
 coverage/
+*.tsbuildinfo
 
 # Environment files
 .env
